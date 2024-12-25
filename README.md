@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 - **Languages:** Python, JavaScript, Java,
 - **Tools:** Git, Docker, Kubernetes, Jenkins, Ansible
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- ** Cloudbases:** AMAZON WEB SERVICES, AZURE,
+- **Cloudbased Technology:** AMAZON WEB SERVICES, AZURE,
 
 ## 📈 GitHub Stats
 https://github.com/pavantummalapalli25
@@ -20,7 +20,3 @@ https://github.com/pavantummalapalli25
 ## 📫 Get in Touch
 
 - **Email:** pavantummalapalli25@gmail.com
-- **LinkedIn:** [Pavan Tummalapalli](https://www.linkedin.com/in/pavantummalapalli25)
-- **Twitter:** [@pavantummalapalli](https://twitter.com/pavantummalapalli)
-
-Thanks for stopping by! Feel free to reach out if you'd like to collaborate on a project or just want to say hi.
